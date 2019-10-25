@@ -1,1 +1,1 @@
-#this is a startup-page
+#startup-page
